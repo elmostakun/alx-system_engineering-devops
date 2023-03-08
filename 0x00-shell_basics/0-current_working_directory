@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Print the absolute path name of the current directory
+
+pwd
