@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -R | grep ".gif$
+ls -al | grep ".gif$" | sort
